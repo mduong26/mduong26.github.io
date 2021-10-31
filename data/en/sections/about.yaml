@@ -8,32 +8,46 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Research Fellow
 # your company information
 company:
-  name: Example Co.
-  url: 'https://www.example.com'
+  name: Pace Center for Girls
+  url: 'https://www.pacecenter.org'
 
 # your resume. this file path should be relative to you "static" directory
 resume: 'files/resume.pdf'
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I enjoy employing research methods for nonprofit organizations. Currently, I am working towards a doctorate degree in occupational therapy. Additionally, I am an ACE Certified Personal Trainer and have a First Aid/CPR/AED Adult and Pediatric Certification. My resume below will have details on everything that I have worked on.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-  - name: Github
-    icon: 'fab fa-github'
-    url: 'https://www.github.com/example'
+- name: Email
+  icon: "fas fa-envelope"
+  url: "michelledg0326@gmail.com"
 
+- name: Google
+  icon: "fab fa-google"
+  url: "https://scholar.google.com/citations?hl=en&user=ZmwzVQUAAAAJ"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/mduong26"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/michelle-duong-4b28aa173/"
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-  - name: Leadership
-    percentage: 85
-    color: blue
-  - name: Team Work
+  - name: Enthusiastic
     percentage: 90
+    color: green
+  - name: Dedicated
+    percentage: 95
+    color: blue
+  - name: Detail Oriented
+    percentage: 85
     color: yellow

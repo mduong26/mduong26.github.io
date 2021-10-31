@@ -11,16 +11,16 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-  - name: Kubernetes
+  - name: Microsoft Office
     #logo: '/images/sections/skills/kubernetes.png'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
-    url: 'https://kubernetes.io/'
+    summary: 'Word, Excel, Power Point, Access, Power BI'
 
-  - name: Go Development
+  - name: Programming
     #logo: '/images/sections/skills/go.png'
-    summary: 'Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program.'
-    url: 'https://golang.org/'
-
-  - name: Cloud Computing
+    summary: 'SAS, R, Python, SQL'
+  - name: Visualization
     #logo: '/images/sections/skills/cloud.png'
-    summary: 'Worked with most of the major clouds such as GCP, AWS, Azure etc.'
+    summary: 'Tableau, ArcGIS, Canva'
+  - name: Data Management
+    #logo: '/images/sections/skills/cloud.png'
+    summary: 'REDCap, Salesforce'

@@ -11,32 +11,98 @@ section:
 # Your experiences
 experiences:
   - company:
-      name: Example Co.
-      url: 'https://www.example.com'
-      location: Dhaka Branch
+      name: Pace Center for Girls
+      url: 'https://www.pacecenter.org'
+      location: Jacksonville, FL
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: Pace provides free year-round middle school and high school academics, case management, counseling, and life skills development in a trauma-informed and gender-responsive environment.
     positions:
-      - designation: Senior Software Engineer
-        start: Nov 2019
+      - designation: Research Fellow
+        start: October 2021
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Design and develop XYZ tool for ABC task
-          - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-          - Lead backend team.
-
+          - Assessed the self-efficacy of the girls involved with Pace.
+          - Developed reserach and analytic reports using Salesforce.
+          - Conducted quantitative analyses using SAS and Python.
   - company:
-      name: PreExample Co.
-      url: 'https://www.preexample.com'
-      location: Nowhere
-      overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+      name: Global Fortification Data Exchange
+      url: 'https://fortificationdata.org'
+      location: Clearwater, FL
+      # company overview
+      overview: Designed for, and by the fortification community, the Global Fortification Data Exchange provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs.
     positions:
-      - designation: Software Engineer
-        start: March 2016
-        end: May 2017
+      - designation: Data Management Analyst
+        start: June 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Write lots of example codes.
-          - Read lots of examples.
-          - See lots of example videos.
+          - Assessed the impact of data analytics on the topic of food fortification.
+          - Created technical briefs and provided graphic design materials.
+          - Analyzed, managed data on REDCap, and wrote Python scripts using REDCap API.
+  - company:
+      name: Raise Leaders Nation
+      url: 'https://www.raiseleaders.org'
+      location: Boynton Beach, FL
+      overview: Raise Leaders Martial Arts provides martial arts programs for all types of people. 
+    positions:
+      - designation: Instructor
+        start: May 2014
+        end: May 2021
+        responsibilities:
+          - Ran classes for all ages.
+          - Co-created online Zoom program.
+          - Assisted in creating a web app using Python and HTML.
+  - company:
+      name: Food Fortification Initiative
+      url: 'https://www.ffinetwork.org'
+      location: Atlanta, GA
+      overview: FFI helps country leaders plan, implement, and monitor fortification programs. 
+    positions:
+      - designation: Graduate Research Assistant
+        start: September 2018
+        end: June 2020
+        responsibilities:
+          - Contact countries to participate in annual survey.
+          - Used SAS to evaulate 41 countries' household surveys.
+          - Analyzed food fortification alignment to WHO recommendations.
+  - company:
+      name: Special Olympics International
+      url: 'https://www.specialolympics.org'
+      location: Washington, DC
+      overview: The mission of Special Olympics is to provide year-round sports training and athletic competition in a variety of Olympic-type sports for children and adults with intellectual disabilities, giving them continuing opportunities to develop physical fitness, demonstrate courage, experience joy and participate in a sharing of gifts, skills and friendship with their families, other Special Olympics athletes and the community. 
+    positions:
+      - designation: Graduate Research Assistant
+        start: May 2019
+        end: April 2020
+        responsibilities:
+          - Created fact sheets based on data collected from the Healthy Athlete System.
+          - Developed SAS code for variable mapping.
+          - Assessed the impact of participating in World Games using SAS and Tableau.
+  - company:
+      name: University of Kentucky
+      url: 'https://pharmacy.uky.edu/office-research-operations/infrastructure/research-centers/ipop'
+      location: Remote
+      overview:  The goal was to understand the literature behind doctor shopping.
+    positions:
+      - designation: Research Consultant
+        start: May 2019
+        end: August 2019
+        responsibilities:
+          - Assisted with a systematic literature review.
+          - Provided data visulatizations for paper.
+  - company:
+      name: University of Florida
+      url: 'https://hobi.med.ufl.edu'
+      location: Gainesville, FL
+      overview:  Improving care, promoting wellness, reducing disparities​ and driving innovation.
+    positions:
+      - designation: Undergraduate Research Assistant
+        start: August 2014
+        end: August 2018
+        responsibilities:
+          - Created graphs and tables using Tableau and Excel and maintained citation databases in Zotero.
+          - Gathered and summarized data associated with controlled substance prescription.
+          - Collected wastewater during college football games for study.

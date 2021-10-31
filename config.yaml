@@ -19,3 +19,5 @@ params:
 
   newsletter:
     enable: false
+
+  background: "images/bg.jpg"
