@@ -74,35 +74,10 @@ experiences:
       location: Washington, DC
       overview: The mission of Special Olympics is to provide year-round sports training and athletic competition in a variety of Olympic-type sports for children and adults with intellectual disabilities, giving them continuing opportunities to develop physical fitness, demonstrate courage, experience joy and participate in a sharing of gifts, skills and friendship with their families, other Special Olympics athletes and the community. 
     positions:
-      - designation: Graduate Research Assistant
+      - designation: Research and Evaluation Intern
         start: May 2019
         end: April 2020
         responsibilities:
           - Created fact sheets based on data collected from the Healthy Athlete System.
           - Developed SAS code for variable mapping.
           - Assessed the impact of participating in World Games using SAS and Tableau.
-  - company:
-      name: University of Kentucky
-      url: 'https://pharmacy.uky.edu/office-research-operations/infrastructure/research-centers/ipop'
-      location: Remote
-      overview:  The goal was to understand the literature behind doctor shopping.
-    positions:
-      - designation: Research Consultant
-        start: May 2019
-        end: August 2019
-        responsibilities:
-          - Assisted with a systematic literature review.
-          - Provided data visulatizations for paper.
-  - company:
-      name: University of Florida
-      url: 'https://hobi.med.ufl.edu'
-      location: Gainesville, FL
-      overview:  Improving care, promoting wellness, reducing disparities​ and driving innovation.
-    positions:
-      - designation: Undergraduate Research Assistant
-        start: August 2014
-        end: August 2018
-        responsibilities:
-          - Created graphs and tables using Tableau and Excel and maintained citation databases in Zotero.
-          - Gathered and summarized data associated with controlled substance prescription.
-          - Collected wastewater during college football games for study.
